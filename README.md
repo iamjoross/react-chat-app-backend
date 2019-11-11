@@ -1,5 +1,5 @@
 # React Chat App (Backend)
-[![Heroku CI Status](https://{deployed app name}.herokuapp.com/last.svg)](https://dashboard.heroku.com/pipelines/{pipeline ID}/tests)
+[![Heroku](https://heroku-badge.herokuapp.com/?app=react-chat-app-joross)]
 
 Simple Chat application using React, Node.js, Express and Socket.io. This is based on [Adrian Hajdin](https://github.com/adrianhajdin) [Build and Deploy a Realtime Chat Application](https://www.youtube.com/watch?v=ZwFA3YMfkoc) tutorial on Youtube. You can check the live chat app [https://react-chat-app-joross.netlify.com/](https://react-chat-app-joross.netlify.com/).
 
